@@ -1,0 +1,18 @@
+.Header {
+  display: flex;
+  justify-content: space-between;
+}
+.logo {
+  width: 55px;
+}
+.icon {
+  width: 55px;
+}
+.nav-bar {
+  ul {
+    display: flex;
+    list-style: none;
+    li {
+    }
+  }
+}

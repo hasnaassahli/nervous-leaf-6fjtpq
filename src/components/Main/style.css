@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  justify-content: space-evenly;
+
+  border: solid 1px;
+}
+.cart {
+  border: solid;
+}
+.photo {
+  width: 80px;
+}

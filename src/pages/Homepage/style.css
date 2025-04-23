@@ -1,0 +1,16 @@
+.homepage {
+  background-color: blueviolet;
+}
+.header {
+  background-color: aqua;
+  height: 10vh;
+}
+
+.main {
+  height: 100%;
+}
+
+.footer {
+  background-color: brown;
+  height: 20vh;
+}
